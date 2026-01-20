@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Enumeration of prime projections on the torus"
+authors:
+  - family-names: Omelchenko
+    given-names: Alexander
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+repository-code: https://github.com/YOUR_USERNAME/torus-projections
+preferred-citation:
+  type: article
+  title: "Prime projections on the torus: unsensed maps and canonical enumeration"
+  authors:
+    - family-names: Omelchenko
+      given-names: Alexander
+  journal: arXiv.org
